@@ -1,0 +1,1 @@
+{"version":3,"file":"SPServices.d.ts","sourceRoot":"","sources":["../../../../src/webparts/reactCrudOps/Services/SPServices.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,4BAA4B,CAAC;AAE5D,OAAO,EAAE,eAAe,EAAE,MAAM,wBAAwB,CAAC;AAEzD,qBAAa,YAAY;IACd,UAAU,CAAC,OAAO,EAAC,cAAc,GAAE,OAAO,CAAC,eAAe,EAAE,CAAC;CAyBvE"}
